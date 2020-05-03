@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">D2D Khulna</string>
+    <string name="besorkari">বেসরকারি মানবিক </string>
+    <string name="shohaota">সহায়তা সেল</string>
+    <string name="abedon_korun">আবেদন করুন</string>
+    <string name="porisonkhan">পরিসংখ্যান</string>
+    <string name="login">লগইন</string>
+    <string name="porichalonay">পরিচালনায়</string>
+    <string name="jela_proshason">জেলা প্রশাসন, খুলনা</string>
+
+
+    <string name="nicher_tottho">নিচের তথ্য সঠিক ভাবে দিন</string>
+    <string name="name">নাম</string>
+    <string name="father">পিতার নাম</string>
+    <string name="mother">মাতার নাম</string>
+    <string name="mobile">মোবাইল নং</string>
+    <string name="national_id">জাতীয় পরিচয় পত্র / পাসপোর্ট</string>
+    <string name="occupation">পেশা</string>
+    <string name="family_member">পরিবারের সদস্য সংখ্যা</string>
+
+    <string name="monthly_income">মাসিক আয়</string>
+    <string name="district">জেলার নাম</string>
+    <string name="upojela">উপজেলা / থানার নাম</string>
+    <string name="word"> ওয়ার্ড নং </string>
+    <string name="gram"> এলাকা / গ্রামের নাম </string>
+    <string name="home_no">হোল্ডিং নং / বাড়ির নং, রোড নং</string>
+    <string name="easy_go">সহজে চেনার উপায়</string>
+
+    <string name="comment">মন্তব্য</string>
+    <string name="permanent_address">স্থায়ী ঠিকানা</string>
+    <string name="jachai">যাচাই করুন</string>
+    <string name="tottho_jachai">নিচের তথ্য যাচাই করুন</string>
+
+    <string name="previous_page">পূর্ববর্তী পেইজে যান</string>
+    <string name="next_page">পরবর্তী পেইজে যান</string>
+
+    <string name="submit">সাবমিট করুন</string>
+    <string name="edit">এডিট করুন</string>
+
+    <string name="mot_abedon_kari">মোট আবেদনকারী</string>
+    <string name="shoyaota_peyeche">সহায়তা পেয়েছে</string>
+
+    <string name="admin_log_in">ভলান্টিয়ার লগইন</string>
+    <string name="user_name">UserName</string>
+    <string name="password">Password</string>
+    <string name="login_eng">Login</string>
+
+    <string name="search_recipient">Search Recipient</string>
+    <string name="mobile_no">Unique ID Given By DC Office</string>
+    <string name="search">Search</string>
+
+    <string name="search_result">Search Result</string>
+    <string name="search_for">Search For: </string>
+    <string name="submit_english">Submit</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="upload">Upload Photo</string>
+
+</resources>
